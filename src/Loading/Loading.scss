@@ -1,0 +1,12 @@
+.gallery {
+  display: flex;
+  column-gap: 1.3rem;
+  margin: auto;
+  width: auto;
+
+  .photo-style {
+    width: 200px;
+    height: 350px;
+    background-color: red;
+  }
+}
